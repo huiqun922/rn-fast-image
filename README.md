@@ -1,6 +1,8 @@
 # rn-fast-image
 
-native image
+native image with SDWebImage and Glide
+
+Fork with https://github.com/DylanVann/react-native-fast-image
 
 ## Installation
 
@@ -10,13 +12,7 @@ npm install rn-fast-image
 
 ## Usage
 
-```js
-import { multiply } from 'rn-fast-image';
-
-// ...
-
-const result = await multiply(3, 7);
-```
+Fork with https://github.com/DylanVann/react-native-fast-image
 
 ## Contributing
 
