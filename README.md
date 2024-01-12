@@ -15,8 +15,9 @@ npm install rn-fast-image
 Fork with https://github.com/DylanVann/react-native-fast-image
 
 ## Are you using Proguard?
-If you use Proguard you will need to add these lines to android/app/proguard-rules.pro:
+If you use Proguard you will need to add these lines to `android/app/proguard-rules.pro`:
 
+```
 -keep public class com.rnfastimage.* {*;}
 -keep public class com.rnfastimage.** {*;}
 -keep public class * implements com.bumptech.glide.module.GlideModule
@@ -25,6 +26,7 @@ If you use Proguard you will need to add these lines to android/app/proguard-rul
   **[] $VALUES;
   public *;
 }
+```
 
 ## Contributing
 
