@@ -1,6 +1,6 @@
 {
   "name": "rn-fast-image",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "native image",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
